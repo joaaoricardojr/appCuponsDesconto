@@ -5,7 +5,3 @@ O Squad é composta por:
 
 - Gilberto Sá
 
-
-
-
-
