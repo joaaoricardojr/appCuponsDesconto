@@ -7,3 +7,4 @@ O Squad é composta por:
 -   Edilton Jr
 -   Mateus Uilliam
 -   Leonardo de Freitas
+-   João Ricardo
