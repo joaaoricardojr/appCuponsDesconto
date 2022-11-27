@@ -6,5 +6,4 @@ O Squad é composta por:
 - Gilberto Sá
 - Edilton Jr
 - Mateus Uilliam
-
-
+- João Ricardo
