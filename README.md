@@ -4,4 +4,5 @@ Utilizaremos a metodolgia Ágil (Scrum) para melhor organização e eficiência 
 O Squad é composta por:
 
 - Gilberto Sá
+- Mateus Uilliam
 
