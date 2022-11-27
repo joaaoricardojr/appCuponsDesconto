@@ -1,3 +1,7 @@
-João Ricardo (teste)
-- feature teste
-- história teste
+Edilton Junior
+
+- Cadastro de usuario com ganho de cupom
+ 
+- Como um usuario eu quero me cadastrar na plataforma e 
+ganhar de brinde um cupom promocional para aproveitar 
+as diversas oportunidades de compras que vao surgir
