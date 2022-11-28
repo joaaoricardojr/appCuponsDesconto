@@ -10,6 +10,7 @@ Gestão de usuário
 Gestão de cupons
 - Definir como o usuário ganhará os próximos cupons; (Gestão de Cupons)
 - Prazo de validade dos cupons; (Gestão de Cupons)
+  -> Como lojista, eu quero definir um tempo de vida útil para os cupons que disponibilizo, para que a campanha de desconto seja coerente com a estratégia de marketing.
 - Histórico de cupons: ativos, utilizados, expirados; (Gestão de Cupons)
   -> Como usuário, gostaria de ter um histórico que mostre meus cupons e seus status, por exemplo, ativo, expirado, utilizado.
 - Gerador de cupom com infos sobre o produto em promoção. (Gestão de Cupons)
