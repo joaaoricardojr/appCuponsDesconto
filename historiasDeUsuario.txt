@@ -9,6 +9,7 @@ Gestão de usuário
 
 Gestão de cupons
 - Definir como o usuário ganhará os próximos cupons; (Gestão de Cupons)
+  -> Como usuário, eu quero receber cupons em intervalos regulares e receber notificações sobre novos cupons recebidos.
 - Prazo de validade dos cupons; (Gestão de Cupons)
 - Histórico de cupons: ativos, utilizados, expirados; (Gestão de Cupons)
   -> Como usuário, gostaria de ter um histórico que mostre meus cupons e seus status, por exemplo, ativo, expirado, utilizado.
