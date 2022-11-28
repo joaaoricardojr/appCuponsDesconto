@@ -10,8 +10,9 @@ Gestão de usuário
 Gestão de cupons
 - Definir como o usuário ganhará os próximos cupons; (Gestão de Cupons)
 - Prazo de validade dos cupons; (Gestão de Cupons)
-- Histórico de cupons: ativos, usados, expirados; (Gestão de Cupons)
+- Histórico de cupons: ativos, utilizados, expirados; (Gestão de Cupons)
+  -> Como usuário, gostaria de ter um histórico que mostre meus cupons e seus status, por exemplo, ativo, expirado, utilizado.
 - Gerador de cupom com infos sobre o produto em promoção. (Gestão de Cupons)
   -> Como administrador, eu quero que o app gere de forma automática os cupons disponibilizados pelas lojas para que eu não precise preencher manualmente.
--Tela com a vitrine dos cupons disponíveis para a escolha do cliente. (Gestão de Cupons)
+- Tela com a vitrine dos cupons disponíveis para a escolha do cliente. (Gestão de Cupons)
   -> Como usuário, eu quero que o app tenha uma vitrine de cupons disponíveis com a possibilidade de filtrar por tipos/preços/etc para que eu posso visualizar-los de forma fácil, rápida e prática.
