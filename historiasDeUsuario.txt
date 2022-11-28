@@ -2,6 +2,7 @@ Histórias de usuários
 
 Gestão de usuário
 - Cadastro completo para ganhar cupom (?); (Gestão de Usuário)
+  -> como usuário, gostaria de receber cupons ao me cadastrar, porque me impulsionará a continuar no aplicativo em busca de novos cupons
 - Ao se cadastrar o usuário ganha um cupom; (Gestão de Usuário)
   -> Como um usuario eu quero me cadastrar na plataforma e ganhar de brinde um cupom promocional para aproveitar as diversas oportunidades de compras que vao surgir
 - Tela de Login com usuário e senha. (Gestão de Usuário)
@@ -9,12 +10,13 @@ Gestão de usuário
 
 Gestão de cupons
 - Definir como o usuário ganhará os próximos cupons; (Gestão de Cupons)
+  -> Como usuário, eu quero receber cupons em intervalos regulares e receber notificações sobre novos cupons recebidos.
 - Prazo de validade dos cupons; (Gestão de Cupons)
-- Histórico de cupons: ativos, usados, expirados; (Gestão de Cupons)
+  -> Como lojista, eu quero definir um tempo de vida útil para os cupons que disponibilizo, para que a campanha de desconto seja coerente com a estratégia de marketing.
+- Histórico de cupons: ativos, utilizados, expirados; (Gestão de Cupons)
+  -> Como usuário, gostaria de ter um histórico que mostre meus cupons e seus status, por exemplo, ativo, expirado, utilizado.
 - Gerador de cupom com infos sobre o produto em promoção. (Gestão de Cupons)
   -> Como administrador, eu quero que o app gere de forma automática os cupons disponibilizados pelas lojas para que eu não precise preencher manualmente.
--Tela com a vitrine dos cupons disponíveis para a escolha do cliente. (Gestão de Cupons)
+- Tela com a vitrine dos cupons disponíveis para a escolha do cliente. (Gestão de Cupons)
   -> Como usuário, eu quero que o app tenha uma vitrine de cupons disponíveis com a possibilidade de filtrar por tipos/preços/etc para que eu posso visualizar-los de forma fácil, rápida e prática.
-- Cadastro completo para ganhar cupom (?); (Gestão de Usuário)
-  -> como usuário, gostaria de receber cupons ao me cadastrar, porque me impulsionará a continuar no aplicativo em busca de novos cupons
-    
+
