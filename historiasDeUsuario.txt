@@ -1,1 +1,17 @@
+Histórias de usuários
 
+Gestão de usuário
+- Cadastro completo para ganhar cupom (?); (Gestão de Usuário)
+- Ao se cadastrar o usuário ganha um cupom; (Gestão de Usuário)
+  -> Como um usuario eu quero me cadastrar na plataforma e ganhar de brinde um cupom promocional para aproveitar as diversas oportunidades de compras que vao surgir
+- Tela de Login com usuário e senha. (Gestão de Usuário)
+- Cadastro de usuário (nome, email, endereço, nascimento) (Gestão de Usuário)
+
+Gestão de cupons
+- Definir como o usuário ganhará os próximos cupons; (Gestão de Cupons)
+- Prazo de validade dos cupons; (Gestão de Cupons)
+- Histórico de cupons: ativos, usados, expirados; (Gestão de Cupons)
+- Gerador de cupom com infos sobre o produto em promoção. (Gestão de Cupons)
+  -> Como administrador, eu quero que o app gere de forma automática os cupons disponibilizados pelas lojas para que eu não precise preencher manualmente.
+-Tela com a vitrine dos cupons disponíveis para a escolha do cliente. (Gestão de Cupons)
+  -> Como usuário, eu quero que o app tenha uma vitrine de cupons disponíveis com a possibilidade de filtrar por tipos/preços/etc para que eu posso visualizar-los de forma fácil, rápida e prática.
