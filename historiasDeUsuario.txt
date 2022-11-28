@@ -6,6 +6,7 @@ Gestão de usuário
 - Ao se cadastrar o usuário ganha um cupom; (Gestão de Usuário)
   -> Como um usuario eu quero me cadastrar na plataforma e ganhar de brinde um cupom promocional para aproveitar as diversas oportunidades de compras que vao surgir
 - Tela de Login com usuário e senha. (Gestão de Usuário)
+  -> Como usuario eu quero uma tela de login e senha simples e facil de logar.
 - Cadastro de usuário (nome, email, endereço, nascimento) (Gestão de Usuário)
 
 Gestão de cupons
