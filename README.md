@@ -8,3 +8,4 @@ O Squad é composta por:
 -   Mateus Uilliam
 -   Leonardo de Freitas
 -   João Ricardo
+-   Abnadab Castro
